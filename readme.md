@@ -24,9 +24,9 @@ sticker(
   h_color = ggplot2::alpha("#aa3322",1),
   h_fill = '#f4f1eb',
   white_around_sticker = F,
-  url = "https://ausgis.github.io/cisp",
+  url = "https://stscl.github.io/cisp",
   u_color = ggplot2::alpha("#aa3322",.75),
-  u_size = 5.55,
+  u_size = 5.95,
   filename = "cisp_logo.png"
 )
 
